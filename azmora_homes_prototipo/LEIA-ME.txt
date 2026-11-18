@@ -1,0 +1,37 @@
+AZMORA HOMES — PROTÓTIPO DO WEBSITE
+===================================
+
+COMO ABRIR
+1. Extrair o ficheiro ZIP para uma pasta do computador.
+2. Abrir index.html no Chrome, Firefox ou Edge.
+3. Navegar pela página inicial, catálogo, fichas das casas e contactos.
+
+FICHEIROS
+- index.html: site interativo (HTML + CSS + JavaScript, sem framework)
+- assets/: fotografias recortadas das capturas partilhadas
+
+FUNCIONALIDADES DO PROTÓTIPO
+- Página inicial responsive
+- Catálogo com filtros T2/T3 e pesquisa
+- Ficha individual para cada uma das 3 casas de demonstração
+- Galeria de fotos com ampliação
+- Formulário que prepara o pedido para copiar (NÃO envia mensagens)
+- Páginas Sobre nós e Contactos
+
+PENDÊNCIAS ANTES DE PUBLICAR
+- Confirmar modelo, nome e tipologia de cada casa
+- Confirmar a correspondência de cada fotografia com a respetiva unidade
+- Confirmar áreas, dimensões, quartos, instalações sanitárias, estado e ano
+- Confirmar preços, IVA, transporte, instalação e garantia
+- Confirmar disponibilidade e zona de entrega
+- Obter logótipo final, email, telefone e endereço da empresa
+- Integrar um contacto real / tratamento de dados conforme regras aplicáveis
+- Substituir recortes das capturas por fotografias originais de alta resolução
+- Validar direitos de utilização das fotografias
+
+NOTAS
+- As designações Casa Essencial, Casa Horizonte e Casa Amplitude são exemplos.
+- Preços (12.500 €, 12.900 €, 17.900 €) vieram das capturas da conversa.
+- A correspondência entre os preços e todas as fotografias precisa de validação.
+- A página Não é uma loja online nem recebe pagamentos.
+- Não há backend nem painel administrativo nesta primeira versão.
